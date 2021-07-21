@@ -1,6 +1,6 @@
 # koa2-template
 
-ts-node + koa2 + nodemon
+ts-node + koa2 + ts-node-dev
 
 一个简单的 koa2 起手模版。克隆本模板之后即可开始详细的业务开发。
 
@@ -8,7 +8,7 @@ ts-node + koa2 + nodemon
 
 1. 采用 ts-node 运行时
 2. 采用 koa2 作为 web service
-3. 采用 nodemon 作为开发效率工具
+3. 采用 ts-node-dev 作为开发效率工具
 4. 采用 eslint 作为 ts 语法检测
 5. gitignore 包含 vscode\jetbrain\nodejs\macos\windows
 6. 包含一个自定义 d.ts 文件
